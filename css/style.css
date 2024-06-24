@@ -1,0 +1,8 @@
+:root {
+    --font-base: Roboto, sans-serif;
+    --bg-color-primary: #2E3142;
+    --text-color-primary: #2E3142;
+    --link-color-primary: #1696E0;
+    --button-bg-color-primary: #1696E0;
+    --button-text-color-primary: white;
+}
