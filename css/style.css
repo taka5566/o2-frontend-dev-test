@@ -6,3 +6,52 @@
     --button-bg-color-primary: #1696E0;
     --button-text-color-primary: white;
 }
+
+.hero-section {
+    background-color: #f8f9fa;
+    padding: 50em 0;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20em 0;
+}
+
+.article-card {
+    background-color: #e9ecef;
+    height: 300em; 
+    position: relative; 
+}
+
+.contentBox {
+    width: 100%;
+    height: 50%; 
+    background-color: #7289a1; 
+    margin-bottom: 15em; 
+}
+
+.redLogo {
+    max-width: 100%;
+    height: auto;
+    max-height: 80em; 
+    object-fit: contain;
+    padding: 10em;
+}
+
+
+footer ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+footer ul li {
+  display: inline;
+  margin-right: auto;
+}
+
+footer a {
+  color: #ffffff;
+}
+
+
